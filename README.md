@@ -17,4 +17,6 @@ with Tomcat and Maven. Details here :
 http://www.avajava.com/tutorials/lessons/how-do-i-deploy-a-maven-web-application-to-tomcat.html
 
 When the application is deployed it can be accessed from your favourite browser.
-For my Tomcat the URL is http://localhost:8080/websocket-demo/
+For my Tomcat the URL is http://localhost:8080/websocket-demo/ .
+
+<h3>lol</h3>
