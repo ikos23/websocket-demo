@@ -15,3 +15,6 @@ app to my Tomcat (reference to it can be found in pom.xml).
 In order to use it, some minor configurations should be done
 with Tomcat and Maven. Details here :
 http://www.avajava.com/tutorials/lessons/how-do-i-deploy-a-maven-web-application-to-tomcat.html
+
+When the application is deployed it can be accessed from your favourite browser.
+For my Tomcat the URL is http://localhost:8080/websocket-demo/
